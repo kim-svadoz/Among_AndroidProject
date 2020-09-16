@@ -1,4 +1,4 @@
-# AMONG-Android Project
+# 👊 AMONG-Android Project
 
 > IoT 장비와 스마트 디바이스(Android) 통합 미니 프로젝트
 
